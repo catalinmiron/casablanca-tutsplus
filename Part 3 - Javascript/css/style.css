@@ -515,9 +515,9 @@ section {
   max-width: 100%;
   height: auto;
   display: block;
-  -webkit-filter: greyscale(100%);
-  -moz-filter: greyscale(100%);
-  filter: greyscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  filter: grayscale(100%);
 }
 
 /* About */
